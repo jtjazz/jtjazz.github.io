@@ -1,0 +1,36 @@
+{
+  "basics": {
+    "name": "Jakob Jaskolka",
+    "label": "Student",
+    "email": "jtjazz9@gmail.com",
+    "summary": "I am studying for a B.S. in Information Technology at Sullivan University. I expect to graduate in Summer, 2025.",
+    "profiles": [
+      { "network": "github", "username": "jtjazz", "url": "http://github.com/jtjazz" },
+    ]
+  },
+  "interests": [
+    { "name": "Website Design" },
+    { "name": "Computer Repair" },
+    { "name": "Video Game Design" },
+  ],
+  
+  "education": [
+    {
+      "institution": "Sullivan University, KY",
+      "area": "Computer Science (expected Summer, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2020",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+    },
+  ],
+
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
